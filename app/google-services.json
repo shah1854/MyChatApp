@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543465770159",
+    "project_id": "chatapp-faa46",
+    "storage_bucket": "chatapp-faa46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543465770159:android:cd7c99565da8411b93585a",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543465770159-t222o3gvmt8l0n8dtnu4qkp3l8n4fas5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "627e63d9c98b2215fae1c78cbdfaa2fa85ad9c60"
+          }
+        },
+        {
+          "client_id": "543465770159-thpq2a03383ni0sgk65aju6de69s28jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvkzuyeyV5HGoNXSdkmC5nQdGyeJq9SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543465770159-thpq2a03383ni0sgk65aju6de69s28jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
